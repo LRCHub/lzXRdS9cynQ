@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Heavydirtysoul",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T06:34:10.866358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/01_Heavydirtysoul_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heavydirtysoul (feat. MUTEMATH)",
+      "artist": "Twenty One Pilots feat. Mutemath",
+      "has_synced": true,
+      "path": "select/02_Heavydirtysoul_(feat._MUTEMATH)_Twenty_One_Pilots_feat._Mutemath.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heavydirtysoul (feat. MUTEMATH)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/03_Heavydirtysoul_(feat._MUTEMATH)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jumpsuit / Heavydirtysoul - Livestream Version",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/04_Jumpsuit___Heavydirtysoul_-_Livestream_Version_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/05_Heavydirtysoul_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/06_Heavydirtysoul_Twenty_One_Pilots.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jumpsuit / Heavydirtysoul  (Livestream Version)",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/07_Jumpsuit___Heavydirtysoul_(Livestream_Version)_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heavydirtysoul (feat. MUTEMATH)",
+      "artist": "Twenty One Pilots/Mutemath",
+      "has_synced": true,
+      "path": "select/08_Heavydirtysoul_(feat._MUTEMATH)_Twenty_One_Pilots_Mutemath.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "Twenty One Pilots/Mutemath",
+      "has_synced": true,
+      "path": "select/09_Heavydirtysoul_Twenty_One_Pilots_Mutemath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/10_Heavydirtysoul_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "twenty one pilots: Heavydirtysoul [OFFICIAL VIDEO]",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/11_twenty_one_pilots__Heavydirtysoul_[OFFICIAL_VIDEO]_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heavydirtysoul (feat. MUTEMATH)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/12_Heavydirtysoul_(feat._MUTEMATH)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "twenty one pilots feat. MUTEMATH",
+      "has_synced": true,
+      "path": "select/13_Heavydirtysoul_twenty_one_pilots_feat._MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/14_Heavydirtysoul_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heavydirtysoul ft. MUTEMATH",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/15_Heavydirtysoul_ft._MUTEMATH_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/16_Heavydirtysoul_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heavydirtysoul",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/17_Heavydirtysoul_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Twenty One Pilots - \"Jumpsuit/Heavydirtysoul (Livestream Version)\"",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/18_Twenty_One_Pilots_-__Jumpsuit_Heavydirtysoul_(Livestream_Version)_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Twenty One Pilots - Heavydirtysoul",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/19_Twenty_One_Pilots_-_Heavydirtysoul_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heavydirtysoul",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Heavydirtysoul_Twenty_One_Pilots.txt"
+    }
+  ]
+}
